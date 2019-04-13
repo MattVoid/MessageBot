@@ -1,0 +1,7 @@
+END_STRANGE = "Your stranger ending conversetion, type /start to starting a new conversation"
+END = "Ending conversetion, type /start to starting a new conversation"
+BLOCK_PICS = "User block the pics"
+STATUS_CONNECT = "Status: connected"
+STATUS_SEARCH = "Status: serching"
+SPAM = "You can not spam"
+WARNING_LOCATION = "Sending your position is very dangerous, you want to send it anyway?"
